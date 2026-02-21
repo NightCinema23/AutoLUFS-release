@@ -13,7 +13,7 @@
 
 우측의 **[Releases](https://github.com/NightCinema23/AutoLUFS-release/releases)** 페이지에서 최신 버전을 다운로드하세요.
 
-- **Windows**: `AutoLUFS_vX.X.exe`
+- **Windows**: `AutoLUFS_vX.X.zip` (압축 해제 후 실행)
 
 ---
 
@@ -31,8 +31,9 @@
 ## 🚀 실행 방법
 
 ### Windows
-1. 다운로드한 `.exe` 파일을 실행합니다.
-2. **"Windows의 PC 보호"** 경고창이 뜰 경우:
+1. 다운로드한 `.zip` 파일의 압축을 풉니다.
+2. 폴더 내의 `AutoLUFS.exe` 파일을 실행합니다.
+3. **"Windows의 PC 보호"** 경고창이 뜰 경우:
    - `추가 정보` 클릭 -> `실행` 버튼 클릭
    - (개인 개발자가 서명하지 않은 앱이라 발생하는 현상입니다.)
 
